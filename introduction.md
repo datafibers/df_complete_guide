@@ -1,5 +1,4 @@
-# Complete Guide to DataFibers
-
+# A Complete Guide to DataFibers
 ![](https://github.com/datafibers/df_complete_guide/blob/master/cover_small.jpg?raw=true)
 
 Welcome and thank you for downloading DataFibers' Complete Guide to big data stream processing! 
