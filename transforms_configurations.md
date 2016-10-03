@@ -22,7 +22,7 @@
 | -- | -- | -- | -- |
 | **group.id** | Optional | df_trans_flink_group_id | Kafka consumer id.|
 | **data.format.input** | Optional | json | Available value are "json_string" and "json". | 
-| **data.format.output** |Optional | json | Available value are "json_string" and "json". | 
+| **data.format.output** |Optional | json | Available value are "json_string" and "json".**[*]**| 
 | **avro.schema.enabled** |Optional | false | Whether AVRO schema is enabled in Kafka Connect. | 
 | **column.name.list** |Yes | N/A | The list of column names output to Kafka topic. | 
 | **column.schema.list** |Yes |N/A| The list of datatype to Kafka topic. | 
@@ -30,3 +30,6 @@
 | **topic.for.result** |Yes | N/A | The Kafka topic to output data | 
 | **trans.sql** |Yes | N/A | The Flink Stream SQL query. | 
 
+Example of json and json string
+* json: {"name":"BABA", "location":"China"}
+* json string: "{\"name\":\"BABA\", \"location\":\"China\"}"
