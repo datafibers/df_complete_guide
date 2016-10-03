@@ -8,7 +8,7 @@
    * [Design Overview](design_overview.md)
    * [Developers](developers.md)
 * Configurations
+* [APIs](apis.md)
 * [Case Study: Century Engineering - Project Management](case-study-2.md)
 * [Glossary](GLOSSARY.md)
-* [APIs](apis.md)
 
