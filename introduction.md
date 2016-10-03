@@ -1,6 +1,6 @@
 # Complete Guide to DataFibers
 
-![](http://www.fulcrumapp.com/assets/img/fulcrum-logo.svg)
+![](https://github.com/datafibers/df_complete_guide/blob/master/image/logo_blue.png?raw=true)
 
 Welcome and thank you for downloading Fulcrum's Ultimate Guide to Data Collection! In this guide, you will find:
 
