@@ -6,16 +6,16 @@ Welcome and thank you for downloading DataFibers' Complete Guide to the world of
 
 - A guide to learning the concept of data streaming
 - An overview of DataFibers project
-- Best practices for designing your survey
-- Tips for field data collection
+- Best practices for designing your big data processing architecturee
+- Tips for using DataFibers
+- Specifications for API and configurations
 - A glossary of common data collection, mapping, and analysis terms
-- Some great offers from Fulcrum and our partners
 
 **Who Is This Guide For?**
 
-If you've ever wanted to learn how to collect data in the field, or build a custom map, or just want to know more about the world of map making, this book is for you. If you've never conducted a field survey or collected data before, you'll find the tips you need in this book to confidently conduct your first field data collection and mapping project. 
+If you've ever wanted to learn how to process big data in the field of streaming, or build a custom big data application with data streams, or just want to know more about the big data processing, this book is for you. If you've never work on big data before, you'll find the tips you need in this book to learn big data processing, ETL, and implementations. 
 
-It's everything you'll need to get started collecting data better with forms and surveys.
+It's everything you'll need to get started using DataFibers to prcocess big data streams.
 
-We hope this will help you better understand the planning and process that goes into any successful data collection and mapping project. As always if you have any questions, concerns, or comments, you can always reach out to us at [info@fulcrumapp.com](mailto:info@fulcrumapp.com)
+We hope this will help you better understand the process that goes into any successful streaming big data project. As always if you have any questions, concerns, or comments, you can always reach out to us at [datafibers@gmail.com](mailto:datafibers@gmail.com)
 
