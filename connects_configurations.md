@@ -17,6 +17,6 @@
         "file": "openrecipes_sink.json",
         "tasks.max": "1",
         "name": "local-file-sink",
-        "topic": "finance"
+        "topics": "finance"
     }
 
