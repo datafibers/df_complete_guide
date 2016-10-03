@@ -10,7 +10,7 @@
 * [Configurations](configurations.md)
    * [Job Configurations](job_configurations.md)
    * Connects Configurations
-   * Transforms Configurations
+   * [Transforms Configurations](transforms_configurations.md)
 * [APIs](apis.md)
 * [Case Study: Century Engineering - Project Management](case-study-2.md)
 * [Glossary](GLOSSARY.md)
