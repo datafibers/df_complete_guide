@@ -2,7 +2,7 @@
 
 ![](https://github.com/datafibers/df_complete_guide/blob/master/image/logo_blue.png?raw=true)
 
-Welcome and thank you for downloading DataFibers' Complete Guide to the world of data streaming! In this guide, you will find:
+Welcome and thank you for downloading DataFibers' Complete Guide to big data stream processing! In this guide, you will find:
 
 - A guide to learning the concept of data streaming
 - An overview of DataFibers project
