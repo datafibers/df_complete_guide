@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](introduction.md)
+   * Configurations
 * [Hello DataFibers](hello_datafibers.md)
    * [Overview](overview.md)
    * [Installation](installation.md)
