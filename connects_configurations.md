@@ -16,7 +16,7 @@
 | -- | -- | -- | -- |
 | **connector.class** | Yes | N/A | Kafka Connect Class Name.|
 | **file** | Yes | N/A | File name for streaming to Kafka. | 
-| **tasks.max** |Yes | N/A | Number of tasks in parallel| 
+| **tasks.max** |Yes | N/A | Number of tasks in parallel.| 
 | **name** |Optional | **Connector** Name in WebUI | Kafka Connect name.| 
 | **topic** |Yes | N/A | The single Kafka topic name having data streamed.| 
 
@@ -36,6 +36,6 @@
 | -- | -- | -- | -- |
 | **connector.class** | Yes | N/A | Kafka Connect Class Name.|
 | **file** | Yes | N/A | File name for exporting from Kafka. | 
-| **tasks.max** |Yes | N/A | Number of tasks in parallel| 
+| **tasks.max** |Yes | N/A | Number of tasks in parallel.| 
 | **name** |Optional | **Connector** Name in WebUI | Kafka Connect name.| 
 | **topics** |Yes | N/A | List of Kafka topics having data streamed out.| 
