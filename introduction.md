@@ -2,9 +2,10 @@
 
 ![](https://github.com/datafibers/df_complete_guide/blob/master/image/logo_blue.png?raw=true)
 
-Welcome and thank you for downloading Fulcrum's Ultimate Guide to Data Collection! In this guide, you will find:
+Welcome and thank you for downloading DataFibers' Complete Guide to the world of data streaming! In this guide, you will find:
 
-- A guide to learning the ins and outs of data collection
+- A guide to learning the concept of data streaming
+- An overview of DataFibers project
 - Best practices for designing your survey
 - Tips for field data collection
 - A glossary of common data collection, mapping, and analysis terms
