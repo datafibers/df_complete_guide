@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](introduction.md)
-* [Survey Best Practices](04-survey-best-practices.md)
 * [Guide to Field Data Collection](05-guide-to-field-data-collection.md)
 * [Post-collection Considerations](post-collection_considerations.md)
 * [Case Study: Premier Utility - Large Scale Data Collection](case-study-3.md)
