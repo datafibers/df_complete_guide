@@ -4,7 +4,7 @@
 * [Hello DataFibers](hello_datafibers.md)
    * [Overview](overview.md)
    * [Installation](installation.md)
-   * Quick Start
+   * [Quick Start](quick_start.md)
 * [Case Study: Century Engineering - Project Management](case-study-2.md)
 * [Glossary](GLOSSARY.md)
 
