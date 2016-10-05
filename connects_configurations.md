@@ -10,7 +10,7 @@
         "name": "local-file-source",
         "topic": "finance"
     }
-**Configuration Details**:
+**Configuration Details**: 
 
 | Config | Request | Default | Comments |
 | -- | -- | -- | -- |
