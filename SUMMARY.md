@@ -2,6 +2,7 @@
 
 * [Introduction](introduction.md)
    * [Reader Guideline](reader_guideline.md)
+   * History
 * [Hello DataFibers](hello_datafibers.md)
    * [Overview](overview.md)
    * [Installation](installation.md)
