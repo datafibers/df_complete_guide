@@ -2,6 +2,7 @@
 
 * [Introduction](introduction.md)
    * [Big Data Processing Review](big_data_processing_review.md)
+   * Reader Guideline
 * [Hello DataFibers](hello_datafibers.md)
    * [Overview](overview.md)
    * [Installation](installation.md)
