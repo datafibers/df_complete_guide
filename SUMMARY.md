@@ -2,7 +2,6 @@
 
 * [Introduction](introduction.md)
    * [Reader Guideline](reader_guideline.md)
-   * [Big Data Process Evolution](bigdataprocessing_evo_md.md)
 * [Hello DataFibers](hello_datafibers.md)
    * [Overview](overview.md)
    * [Installation](installation.md)
