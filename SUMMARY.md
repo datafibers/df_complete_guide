@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](introduction.md)
-   * Reader Guideline
+   * [Reader Guideline](reader_guideline.md)
    * [Big Data Processing Review](big_data_processing_review.md)
 * [Hello DataFibers](hello_datafibers.md)
    * [Overview](overview.md)
