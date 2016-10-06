@@ -14,4 +14,3 @@ The big data processing architecture evolves with the speed of demanding values 
 
 #### Unified
 
-![](data_oriented.jpg)
