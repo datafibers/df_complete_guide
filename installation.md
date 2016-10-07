@@ -21,7 +21,7 @@ cd/opt
 tar -xvf confluent-3.0.1-2.11.tar.gz
 
 - Flink:
-Download latest flink (above ), upload it to your Linux machine, and extract it under Linux folder /opt 
+Download latest flink (above version 2.11), upload it to your Linux machine, and extract it under Linux folder /opt 
 e.g. 
 
 - Mongodb:
