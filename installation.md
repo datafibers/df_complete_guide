@@ -1,16 +1,42 @@
 # Installation
 
-1. Environment setup:
-In order to work on BigData, we have to setup the following working environments:
+## Requirements
+The software requirement for DataFibers are
+* Java 8
+* Apache Kafka >= 3.0.0
+* Apache Flink >= 1.1.0
+* MongoDB
 
-1) Download and install Oracle VM Virtual Box in your local machine:
-- Hardware requirements: before you download and install Oracle VM VirtualBox, you need to make sure your machine supports Vitualization - cold start your machine, and then go to BIOS setup to have Vitualization ON
+is Oracle Java v1.8. Java installation varies by platform, so please check the JRE installation requirements for your platform. Before installing the DataFibers, double check your Java version:
 
-- Go to the website https://www.virtualbox.org/wiki/Downloads to download latest Oracle VM VirtualBox, and install it in your local machine
+    $ java -version
+    
+Various installation options are listed in the sections below. Select the approach you prefer and follow the given instructions to install the Confluent Platform.
 
-- 
-2) Install Linux box in your local machine
-- 
+## Operation System
+Right now, DataFibers runs on Linux system. You can install various distribution, such as Ubuntu, Redhat, etc locally or in virtual machines, such as [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads).
+
+>To visualize multiple core OS, make sure your host machine's BIOS visualization features enabled .
+
+## Backbone Software
+Backbone software are basic components which DataFibers leverage for big data processing. 
+
+### Flink
+
+### Kafka
+
+### Mongo
+
+## Developers Packages
+Developer software packages are optional for general DataFibers' users. This packages are generally needed for self compile or code contribution.
+
+### Git
+
+### Maven
+
+## DataFibers Packages
+
+----
 
 2) Download and install various software in your Linux environment
 - Git: google and install git for Windows; once you install git, create a git account
