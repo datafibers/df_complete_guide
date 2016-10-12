@@ -8,5 +8,10 @@
     "pdf": {
       "paperSize": "letter",
       "fontFamily": "DejaVu Sans"
+    },
+    {
+    "plugins": [
+        "image-captions"
+    ]
     }
 }
