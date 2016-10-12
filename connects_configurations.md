@@ -1,7 +1,7 @@
 # Connects Configurations
 
-### 1. File Streaming Source
-**Configuration Samples**:
+## File Streaming Source
+#### Configuration Samples
 
     {
         "connector.class": "org.apache.kafka.connect.file.FileStreamSourceConnector",
@@ -10,7 +10,7 @@
         "name": "local-file-source",
         "topic": "finance"
     }
-**Configuration Details**: 
+#### Configuration Details 
 
 | Config | Request | Default | Comments |
 | -- | -- | -- | -- |
@@ -20,7 +20,7 @@
 | **name** |Optional | **Connector** Name in WebUI | Kafka Connect name.| 
 | **topic** |Yes | N/A | The single Kafka topic name having data streamed.| 
 
-### 2. File Streaming Sink
+## File Streaming Sink
 **Configuration Samples**:
 
     {
