@@ -17,5 +17,11 @@ In the earlier period of big data processing, aka Hadoop 1.0 era, most big data 
 
 Most companies have started or been staring evolve from pure batch to pure stream big data architecture as follows. There are reasons arranged from legacy warehouse maintenance to technology maturity. Some company are still in the first two architectures. However, Lamdba is not recommended because of complexity and overhead, unless the company has very closed dependency on legacy data pipe and their big data architecture was already matured in the last three years. Kappa is where leading data company approaching.
 
+
+### Service
+
+#### Data Oriented and Centric
 ![](data_oriented.jpg)
+#### Data Application vs. Framework
+
 
