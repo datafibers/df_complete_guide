@@ -8,15 +8,5 @@
     "pdf": {
       "paperSize": "letter",
       "fontFamily": "DejaVu Sans"
-    },
-    {
-    "plugins": [
-        "image-captions"
-    ]
-    },
-    {
-      "plugins": [ "page-toc" ],
-      "pluginsConfig": {
-      }
     }
 }
