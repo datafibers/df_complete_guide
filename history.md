@@ -16,7 +16,7 @@ When [IoT](https://en.wikipedia.org/wiki/Internet_of_things) becomes popular, th
 
 <img src="http://lambda-architecture.net/img/la-overview_small.png" alt="Lambda Architecture">
 
-The Lambda Architecture is designed to satisfy the needs for combined analysis on both history data, which is typically coming from batch processing (batch layer), and on-time data, which is ingested by data streaming (speed layer). This combined feature,which is served from serving layer, has wider use cases when data-driven business looking at the on-flying data for statistics and history data for decision making.
+The Lambda Architecture is designed to satisfy the needs for combined analysis on both history data, which is typically coming from batch processing (batch layer), and on-time data, which is ingested by data streaming (speed layer). This combined feature,which is served from serving layer, has wider use cases when data-driven business looking at the on-flying data for statistics and history data for decision making. 
 
 #### Unified Processing Architecture
 
