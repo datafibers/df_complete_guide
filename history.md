@@ -7,7 +7,7 @@ But gathering in-the-moment insights with complex data processing in the fly is 
 The big data processing architecture adapts to the speed and demanding for exploring values behind of the big data. The architectures of big data processing have three milestones during this evolution. 
 
 #### Batch Processing Architecture
-In the earlier period of big data processing, aka Hadoop 1.0 era, most big data processing was based on Hive/Pig and MapReduce batch jobs. At that time, big data batch job gained attention over traditional data warehouse applications in terms of cost, stability, and performance. At nowadays, batching processing is still playing an important role in most enterprises as transaction from legacy data processing framework.
+In the earlier period of big data processing, aka Hadoop 1.0 era, most big data processing was based on Hive/Pig and MapReduce batch jobs. At that time, big data batch job gained attention over traditional data warehouse applications in terms of cost, stability, and performance. At nowadays, batching processing is still playing an important role in most enterprises as transaction from legacy data processing framework. 
 
 <img src="https://hadoopabcd.files.wordpress.com/2015/03/hadoop1.png" alt="Hadoop Batch Processing">
 
