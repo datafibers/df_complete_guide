@@ -20,8 +20,6 @@ When [IoT](https://en.wikipedia.org/wiki/Internet_of_things) becomes popular, th
 
 Most companies have started or been staring evolve from pure batch to pure stream big data architecture as follows. There are reasons arranged from legacy warehouse maintenance to technology maturity. Some company are still in the first two architectures. However, Lamdba is not recommended because of complexity and overhead, unless the company has very closed dependency on legacy data pipe and their big data architecture was already matured in the last three years. Kappa is where leading data company approaching.
 
-<img src="http://lambda-architecture.net/img/la-overview_small.png" alt="Phra Nakhon Khiri, Phetchaburi">
-
 
 ### Service
 
