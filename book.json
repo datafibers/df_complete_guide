@@ -6,7 +6,11 @@
         "website": "styles/website.css"
     },
     "pdf": {
-      "paperSize": "letter",
-      "fontFamily": "DejaVu Sans"
-    }    
+        "paperSize": "letter",
+        "fontFamily": "DejaVu Sans"
+    },
+    "plugins": [
+        "image-captions"
+    ],
+    "pluginsConfig": {}
 }
