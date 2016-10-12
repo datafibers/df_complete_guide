@@ -13,5 +13,9 @@
         "image-captions",
         "navigator"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+          "image-captions": {
+          "align": "left"
+      }
+    }
 }
