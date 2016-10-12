@@ -17,6 +17,6 @@ If you've ever wanted to learn how to process big data in the field of streaming
 
 It's everything you'll need to get started using DataFibers to prcocess big data streams.
 
-We hope this will help you better understand the process that goes into any successful streaming big data project. As always if you have any questions, concerns, or comments, you can always reach out to us at [datafibers@gmail.com](mailto:datafibers@gmail.com)
+We hope this will help you better understand the process that goes into any successful big data processing project. As always if you have any questions, concerns, or comments, you can always reach out to us at [datafibers@gmail.com](mailto:datafibers@gmail.com)
 
 
