@@ -19,7 +19,9 @@ When [IoT](https://en.wikipedia.org/wiki/Internet_of_things) becomes popular, th
 The Lambda Architecture is designed to satisfy the needs for combined analysis on both history data, which is typically coming from batch processing (batch layer), and on-time data, which is ingested by data streaming (speed layer). This combined feature,which is served from serving layer, has wider use cases when data-driven business looking at the on-flying data for statistics and history data for decision making. 
 
 #### Unified Processing Architecture
+When there are lots of start-up coming into big data processing technology, they usually do not have burden like legacy system or history of data. Most of them jump directly into streaming processing especially for mobile related business or projects. Experienced gained when more people got used to streaming architecture and tentative to use the same processing architecture for batch data as well. In another saying, this comes to the unified big data processing architecture for various of type of big data processing, batch or stream. In addition, this is a pure streaming data processing architecture and reuse for batch processing as well. [Kappa Architecture](http://milinda.pathirage.org/kappa-architecture.com/) is one of very interesting and promising design by removing complex layers from Lambda Architecture. And, this is where DataFibers start from too.
 
+### To Conclude
 Most companies have started or been staring evolve from pure batch to pure stream big data architecture as follows. There are reasons arranged from legacy warehouse maintenance to technology maturity. Some company are still in the first two architectures. However, Lamdba is not recommended because of complexity and overhead, unless the company has very closed dependency on legacy data pipe and their big data architecture was already matured in the last three years. Kappa is where leading data company approaching.
 
 
