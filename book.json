@@ -10,3 +10,9 @@
       "fontFamily": "DejaVu Sans"
     }
 }
+
+{
+      "plugins": [ "page-toc" ],
+      "pluginsConfig": {
+      }
+}
