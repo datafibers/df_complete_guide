@@ -14,7 +14,7 @@ In the earlier period of big data processing, aka Hadoop 1.0 era, most big data 
 When [IoT](https://en.wikipedia.org/wiki/Internet_of_things) becomes popular, there are quite a lot demanding on the speed of acquiring data. Apache Storm, Apache Spark, Flink, Kafka attracts more attention on their steaming data processing. In addition, more use cases using ad-hoc analytic queries on Hadoop data make batch processing, the single solution, awkward and frustrated. Lots demo or POC are started as sperate streaming based big data processing system parallel running with batch processing system. What's more, [Lambda Architecture](https://en.wikipedia.org/wiki/Lambda_architecture) comes to the picture of big data processing for the very first time.
 
 ![Lambda Architecture](http://lambda-architecture.net/img/la-overview_small.png)
-
+The Lambda Architecture is designed to satisfy the needs for combined analysis on both history data, which is typically coming from batch processing (batch layer), and on-time data, which is ingested by data streaming (speed layer). This combined feature,which is served from serving layer, has wider use cases when data-driven business looking at the on-flying data for statistics and history data for decision making.
 
 #### Unified Processing Architecture
 
