@@ -1,9 +1,9 @@
 # Transforms Configurations
 
 
-### 1. Flink Stream SQL
+## 1. Flink Stream SQL
 
-**Configuration Samples**:
+### Configuration Samples
 
     {
         "group.id":"consumer3",
@@ -16,7 +16,7 @@
         "topic.for.result":"stock",
         "trans.sql":"SELECT STREAM symbol, name FROM finance"
     }
-**Configuration Details**:
+### Configuration Details
 
 | Config | Request | Default | Comments |
 | -- | -- | -- | -- |
