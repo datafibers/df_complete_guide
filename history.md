@@ -26,7 +26,7 @@ Most companies have started or been staring evolve from pure batch to pure strea
 ### Service
 
 #### Data Oriented and Centric
-![](data_oriented.jpg)
+![Data Oriented and Centric](data_oriented.jpg)
 #### Data Application vs. Framework
 
 
