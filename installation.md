@@ -16,7 +16,7 @@ Various installation options are listed in the sections below. Select the approa
 ## Operation System
 Right now, DataFibers runs on Linux system. You can install various distribution, such as Ubuntu, Redhat, etc locally or in virtual machines, such as [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 
->To visualize multiple core OS, make sure your host machine's BIOS visualization features are enabled .
+><i class="fa fa-info-circle"></i> To visualize multiple core OS, make sure your host machine's BIOS visualization features are enabled .
 
 ## Backbone Software
 Backbone software are basic components which DataFibers leverage for big data processing. 
