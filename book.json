@@ -10,12 +10,7 @@
         "fontFamily": "DejaVu Sans"
     },
     "plugins": [
-        "image-captions",
         "navigator"
     ],
-    "pluginsConfig": {
-        "image-captions": {
-            "align": "center"
-        }
-    }
+    "pluginsConfig": {}
 }
