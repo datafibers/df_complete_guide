@@ -11,8 +11,7 @@
     },
     "plugins": [
         "image-captions",
-        "navigator",
-        "callouts"
+        "navigator"
     ],
     "pluginsConfig": {
         "image-captions": {
