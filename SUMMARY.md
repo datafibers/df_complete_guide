@@ -17,5 +17,5 @@
    * REST API
    * UDF API
 * [Case Study: Century Engineering - Project Management](case-study-2.md)
-* Case Studies
+* [Case Studies](case_studies.md)
 
