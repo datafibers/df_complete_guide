@@ -11,7 +11,8 @@
     },
     "plugins": [
         "image-captions",
-        "navigator"
+        "navigator",
+        "richquotes"
     ],
     "pluginsConfig": {
         "image-captions": {
