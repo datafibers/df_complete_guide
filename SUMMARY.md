@@ -18,5 +18,5 @@
    * UDF API
 * [Case Study: Century Engineering - Project Management](case-study-2.md)
 * [Best Practice](case_studies.md)
-   * Case Study
+   * [Case Study](case_study.md)
 
