@@ -22,3 +22,9 @@ Annotated notes are an extension of markdown blockquotes. Supported annotations 
 > #### Info::Info
 >
 > content
+
+s
+
+> ==== Info::title
+> 
+> content
