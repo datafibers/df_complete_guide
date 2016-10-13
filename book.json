@@ -11,8 +11,7 @@
     },
     "plugins": [
         "image-captions",
-        "navigator",
-        "annotate"
+        "navigator"
     ],
     "pluginsConfig": {
         "image-captions": {
