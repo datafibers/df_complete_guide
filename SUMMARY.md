@@ -15,5 +15,6 @@
    * [Transforms Configurations](transforms_configurations.md)
 * [APIs](apis.md)
    * REST API
+   * UDF API
 * [Case Study: Century Engineering - Project Management](case-study-2.md)
 
