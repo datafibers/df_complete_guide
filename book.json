@@ -11,11 +11,12 @@
     },
     "plugins": [
         "image-captions",
-        "navigator"
+        "navigator",
+        "edit-link"
     ],
     "pluginsConfig": {
-          "image-captions": {
-          "align": "left"
-      }
+        "image-captions": {
+            "align": "left"
+        }
     }
 }
