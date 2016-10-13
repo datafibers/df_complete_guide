@@ -17,6 +17,10 @@
     "pluginsConfig": {
         "image-captions": {
             "align": "left"
+        },
+        "edit-link": {
+            "base": "https://github.com/datafibers/df_data_service",
+            "label": "Edit"
         }
     }
 }
