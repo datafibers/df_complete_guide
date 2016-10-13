@@ -17,14 +17,11 @@ There are generally two learning paths avaliable for different type of users.
 * For contributors,
       to be added
       
-Annotated notes are an extension of markdown blockquotes. Supported annotations :
-
-> #### Info::Info
+      
+Following annotations are used in this book.
+><i class="fa fa-info-circle"></i> This is for information.
 >
-> content
 
-s
-
-> ==== Info::title
-> 
-> content
+><i class="fa fa-exclamation-circle" aria-hidden="true"></i> This is for pitfall
+>
+><i class="fa fa-cog" aria-hidden="true"></i> This is for tips.
