@@ -19,14 +19,6 @@ There are generally two learning paths avaliable for different type of users.
       
 Annotated notes are an extension of markdown blockquotes. Supported annotations :
 
-> **Info** Info
-> 
-> **Note** Note
-> **Tag** Tag
-> **Comment** Comment
-> **Hint** Hint
-> **Success** Success
-> **Warning** Warning
-> **Caution** Caution
-> **Danger** Danger
-> **Quote** Quote
+> #### type::title
+>
+> content
