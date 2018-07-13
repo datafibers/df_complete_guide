@@ -12,15 +12,19 @@ The big data processing architecture adapts to the speed and demanding for explo
 
 In the earlier period of big data processing, aka. Hadoop 1.0 era, most big data processing was based on MapReduce batch based jobs to process data from landing area to data mart layer. At that time, big data batch job gained attention over traditional data warehouse applications in terms of cost, stability, and performance, however, still keeps the similar processing design and pattern. At nowadays, batching processing is still playing an important role in most enterprises as transaction from legacy data processing framework.
 
- ![Hadoop MapReduce Based Batch Processing](.gitbook/assets/batchpure.png)  
+   
  Figure 1.1 Hadoop MapReduce Based Batch Processing
+
+![Hadoop MapReduce Based Batch Processing](.gitbook/assets/batchpure.png)
 
 ### Hybrid Processing Architecture
 
 When [IoT](https://en.wikipedia.org/wiki/Internet_of_things) becomes popular, there are quite a lot demanding on the speed of acquiring data. Apache Storm, Apache Spark, Flink, Kafka attracts more attention on their steaming data processing. However, more use cases are still using ad-hoc analytic queries on Hadoop batch processing, the single solution, awkward and frustrated. Lots demo or POC are started as separate streaming based big data processing system parallel running with batch processing system. What's more, [Lambda Architecture](https://en.wikipedia.org/wiki/Lambda_architecture) comes to the picture of big data processing for the very first time.
 
- ![Lambda Architecture for Hybrid Data Processing](.gitbook/assets/lambda.png)  
+   
  Figure 1.2 Lambda Architecture for Hybrid Data Processing
+
+![Lambda Architecture for Hybrid Data Processing](.gitbook/assets/lambda.png)
 
 The Lambda Architecture is designed to satisfy the needs for combined analysis on both history data, which is typically coming from batch processing \(batch layer\), and on-time data, which is ingested by data streaming \(speed layer\). This combined feature,which is served from serving layer, has wider use cases when data-driven business looking at the on-flying data for statistics and history data for decision making.
 
@@ -28,8 +32,10 @@ The Lambda Architecture is designed to satisfy the needs for combined analysis o
 
 When there are lots of start-up coming into big data processing technology, they usually do not have burden like legacy system or history of data. Most of them jump directly into streaming processing especially for mobile related business or projects. Experienced gained when more people got used to streaming architecture and tentative to use the same processing architecture for batch data as well. In another saying, this comes to the unified big data processing architecture for various of type of big data processing, batch or stream. In addition, this is a pure streaming data processing architecture and reuse for batch processing as well. [Kappa Architecture](http://milinda.pathirage.org/kappa-architecture.com/) is one of very interesting and promising design by removing complex layers from Lambda Architecture - a Kappa Architecture is a simplification of Lambda Architecture. And, this is where DataFibers start from too.
 
- ![Kappa Architecture for Unified Processing](.gitbook/assets/kappa.png)  
+   
  Figure 1.3 Kappa Architecture for Unified Processing
+
+![Kappa Architecture for Unified Processing](.gitbook/assets/kappa.png)
 
 ### To Conclude
 
@@ -43,8 +49,10 @@ Data-oriented design has actually been around for decades in one form or another
 
 All the applications are all writing to output data, consuming input data, or sharing data among each others. The form of that data can be extremely complex, or so simple it requires no documentation at all, but all applications produce and need these data here or there. If the ultimate result of an application is data, and all input can be represented by data, and it is recognized that all data transforms are not performed in a vacuum, then a software development methodology can be founded on these principles, the principles of understanding and using the data makes a methodology called data-oriented and centric design.
 
- ![Data Oriented and Centric](.gitbook/assets/data_oriented.jpg)  
+   
  Figure 1.4 Data Oriented and Centric
+
+![Data Oriented and Centric](.gitbook/assets/data_oriented.jpg)
 
 ### Data Application vs. Framework
 
